@@ -8,6 +8,8 @@ Solution 1:
 
 You can expect best plans along with their costs like below,
 
+[code]
+
 [
   {
     "name": "PLAN1",
@@ -34,7 +36,7 @@ You can expect best plans along with their costs like below,
     "cost": 125
   }
 ]
-
+[/code]
 Solution 2: You can expect resultant tree like below
 
 {
