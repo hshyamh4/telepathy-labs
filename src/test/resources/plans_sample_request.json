@@ -1,0 +1,65 @@
+{"allPlans": [
+		{
+			"features": [
+				{
+					"name": "voice"
+				},
+				{
+					"name": "email"
+				}
+			],
+			"name": "PLAN1",
+			"cost": 100
+		},
+		{
+			"features": [
+				{
+					"name": "email"
+				},
+				{
+					"name": "database"
+				},
+				{
+					"name": "admin"
+				}
+			],
+			"name": "PLAN2",
+			"cost": 150
+		},
+		{
+			"features": [
+				{
+					"name": "voice"
+				},
+				{
+					"name": "admin"
+				}
+			],
+			"name": "PLAN3",
+			"cost": 125
+		},
+		{
+			"features": [
+				{
+					"name": "database"
+				},
+				{
+					"name": "admin"
+				}
+			],
+			"name": "PLAN4",
+			"cost": 135
+		}
+	],
+	"selectedFeatures": [
+		{
+			"name": "email"
+		},
+		{
+			"name": "voice"
+		},
+		{
+			"name": "admin"
+		}
+	]
+}
