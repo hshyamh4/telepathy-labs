@@ -1,5 +1,5 @@
 
-- Run mvn clean install
+- Run ```mvn clean install```
 - Start the application by running ```com.telepathylabs.Application```
 - Project is integrated with Swagger, so can use http://localhost:8080/swagger-ui.html 
 - Sample input files available in /src/test/resources
