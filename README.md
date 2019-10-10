@@ -1,13 +1,13 @@
 
-1. Run mvn clean install
-2. Start the application by running com.telepathylabs.Application
-3. Project is integrated with Swagger, so can use http://localhost:8080/swagger-ui.html 
-4. Sample input files available in /src/test/resources
+- Run mvn clean install
+- Start the application by running com.telepathylabs.Application
+- Project is integrated with Swagger, so can use http://localhost:8080/swagger-ui.html 
+- Sample input files available in /src/test/resources
 
 Solution 1: 
 
-You can expect best plans along with their costs like below,
-
+> You can expect best plans along with their costs like below,
+```
 [
   {
     "name": "PLAN1",
@@ -34,10 +34,11 @@ You can expect best plans along with their costs like below,
     "cost": 125
   }
 ]
+```
 
-
-Solution 2: You can expect resultant tree like below
-
+Solution 2: 
+> You can expect resultant tree like below
+```
 {
   "id": "A",
   "children": [
@@ -57,3 +58,4 @@ Solution 2: You can expect resultant tree like below
   ],
   "right": null
 }
+```
