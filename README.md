@@ -1,16 +1,16 @@
 
 - checkout the project from ```https://github.com/hshyamh4/telepathy-labs.git```
-- goto folder location ```telepathy-labs``` folder
+- goto folder location ```telepathy-labs```
 - execute ```mvn clean install```
-  - start application by executing ``` java -jar target/telepathy-labs.jar``` in the command prompt
+  - start the application by executing ``` java -jar target/telepathy-labs.jar``` in the command prompt
     (or)
-  - Import the project into eclipse and start the application by running ```com.telepathylabs.Application```
-- project is integrated with swagger, so can access application at http://localhost:8080/swagger-ui.html 
+  - import the project into eclipse, and start the application by running ```com.telepathylabs.Application```
+- project is integrated with swagger, so we can access application at http://localhost:8080/swagger-ui.html 
 - sample input files available in ```/src/test/resources```
 
 Solution 1: 
 
-> You can expect best plans along with their costs like below,
+> we can expect best plans along with their costs like below,
 ```
 [
   {
@@ -41,7 +41,7 @@ Solution 1:
 ```
 
 Solution 2: 
-> You can expect resultant tree like below
+> we can expect resultant tree like below
 ```
 {
   "id": "A",
