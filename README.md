@@ -1,7 +1,11 @@
 
-- Run ```mvn clean install```
-- Start the application by running ```com.telepathylabs.Application```
-- Project is integrated with Swagger, so can use http://localhost:8080/swagger-ui.html 
+- Checkout the projectfrom ```https://github.com/hshyamh4/telepathy-labs.git```
+- gotp folder location ```telepathy-labs``` folder
+- Execute ```mvn clean install```
+  - Execute ``` java -jar target/telepathy-labs.jar``` 
+    (or)
+  - Import the project into eclipse and start the application by running ```com.telepathylabs.Application```
+- Project is integrated with swagger, so can access application at http://localhost:8080/swagger-ui.html 
 - Sample input files available in ```/src/test/resources```
 
 Solution 1: 
